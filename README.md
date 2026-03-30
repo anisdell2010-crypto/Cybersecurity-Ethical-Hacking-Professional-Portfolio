@@ -13,8 +13,10 @@ I utilize **Kali Linux** as my primary penetration testing platform to perform a
 * **Exploitation:** Leveraging the **Metasploit Framework** for payload delivery.
 * **Post-Exploitation:** Executing methodological activities after system access[cite: 64].
 
-![Kali Linux Logo](https://www.kali.org/images/kali-logo.svg) ![Dell Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Dell_Logo.svg)<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/HP_logo_2012.svg" width="120" height="120" alt="HP Logo" />
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/HP_logo_2012.svg" width="120" height="120" alt="HP Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Dell_Logo.svg" width="120" height="120" alt="Dell Logo" />
+  <img src="https://www.kali.org/images/kali-logo.svg" width="180" alt="Kali Linux Logo" />
+</p>
 ---
 
 ## 📜 Verified Credential
