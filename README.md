@@ -22,7 +22,7 @@ I utilize **Kali Linux** as my primary penetration testing platform to perform a
 
 ## 📜 Verified Credential
 ### **Cisco Ethical Hacker Badge**
-This certification validates my ability to explain the importance of methodological ethical hacking and to create professional penetration testing reports[cite: 57, 65].
+This certification validates my ability to explain the importance of methodological ethical hacking and to create professional penetration testing reports.
 
 <img src="https://cdn.simpleicons.org/cisco/049FD9" width="60" height="60" alt="Cisco" />
 
