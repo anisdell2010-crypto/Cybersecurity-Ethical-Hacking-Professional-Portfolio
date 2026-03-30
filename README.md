@@ -13,11 +13,18 @@ I utilize **Kali Linux** as my primary penetration testing platform to perform a
 * **Exploitation:** Leveraging the **Metasploit Framework** for payload delivery.
 * **Post-Exploitation:** Executing methodological activities after system access[cite: 64].
 
+
+
+<img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop" width="100%" alt="Cyber Security Banner" style="border-radius: 12px; margin-bottom: 25px;">
+
+
+
 <p align="left">
-  <img src="https://cdn.simpleicons.org/hp/0096D6" width="60" height="60" alt="HP" />
-  <img src="https://cdn.simpleicons.org/dell/007DB8" width="60" height="60" alt="Dell" />
-  <img src="https://cdn.simpleicons.org/vmware/607078" width="60" height="60" alt="VMware" />
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="60" height="60" alt="Kali Linux" />
+  <img src="https://cdn.simpleicons.org/hp/0096D6" width="70" height="70" alt="HP" />
+  <img src="https://cdn.simpleicons.org/dell/007DB8" width="70" height="70" alt="Dell" />
+  <img src="https://cdn.simpleicons.org/cisco/049FD9" width="70" height="70" alt="Cisco" />
+  <img src="https://cdn.simpleicons.org/vmware/607078" width="70" height="70" alt="VMware" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="70" height="70" alt="Kali Linux" />
 </p>
 
 ## 📜 Verified Credential
