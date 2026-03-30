@@ -13,13 +13,12 @@ I utilize **Kali Linux** as my primary penetration testing platform to perform a
 * **Exploitation:** Leveraging the **Metasploit Framework** for payload delivery.
 * **Post-Exploitation:** Executing methodological activities after system access[cite: 64].
 
-<div align="left">
-  <img src="https://logo.clearbit.com/hp.com" width="60" height="60" alt="HP" style="margin-right: 10px;" />
-  <img src="https://logo.clearbit.com/dell.com" width="60" height="60" alt="Dell" style="margin-right: 10px;" />
-  <img src="https://logo.clearbit.com/comptia.org" width="60" height="60" alt="CompTIA" style="margin-right: 10px;" />
-  <img src="https://logo.clearbit.com/eccouncil.org" width="60" height="60" alt="EC-Council" style="margin-right: 10px;" />
-  <img src="https://www.kali.org/images/kali-logo.svg" width="100" height="60" alt="Kali Linux" />
-</div>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/hp/0096D6" width="60" height="60" alt="HP" />
+  <img src="https://cdn.simpleicons.org/dell/007DB8" width="60" height="60" alt="Dell" />
+  <img src="https://cdn.simpleicons.org/vmware/607078" width="60" height="60" alt="VMware" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="60" height="60" alt="Kali Linux" />
+</p>
 
 ## 📜 Verified Credential
 ### **Cisco Ethical Hacker Badge**
