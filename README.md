@@ -14,10 +14,11 @@ I utilize **Kali Linux** as my primary penetration testing platform to perform a
 * **Post-Exploitation:** Executing methodological activities after system access[cite: 64].
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/HP_logo_2012.svg" width="120" height="120" alt="HP Logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Dell_Logo.svg" width="120" height="120" alt="Dell Logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a1/20211119131652%21OWASP_logo.svg" width="120" height="120" alt="OWASP Logo" />
-  <img src="https://www.kali.org/images/kali-logo.svg" width="180" alt="Kali Linux Logo" />
+  <img src="https://logo.clearbit.com/hp.com" width="80" height="80" alt="HP Logo" />
+  <img src="https://logo.clearbit.com/dell.com" width="80" height="80" alt="Dell Logo" />
+  <img src="https://logo.clearbit.com/comptia.org" width="80" height="80" alt="CompTIA" />
+  <img src="https://logo.clearbit.com/eccouncil.org" width="80" height="80" alt="EC-Council" />
+  <img src="https://www.kali.org/images/kali-logo.svg" width="140" alt="Kali Linux Logo" />
 </p>
 
 ## 📜 Verified Credential
