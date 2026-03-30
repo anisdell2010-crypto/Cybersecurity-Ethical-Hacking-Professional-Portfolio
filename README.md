@@ -8,10 +8,10 @@
 ## 🐧 The Offensive Environment: Kali Linux
 I utilize **Kali Linux** as my primary penetration testing platform to perform advanced security assessments. My expertise within this environment includes:
 
-**Information Gathering:** Using `Nmap`, `dig`, and `nslookup`.
+**Information Gathering:** Using `Nmap`, `Metasplot`, and `BeEF`.
 * **Vulnerability Research:** Identifying system weaknesses through structured scanning.
 * **Exploitation:** Leveraging the **Metasploit Framework** for payload delivery.
-* **Post-Exploitation:** Executing methodological activities after system access[cite: 64].
+* **Post-Exploitation:** Executing methodological activities after system access.
 
 
 
