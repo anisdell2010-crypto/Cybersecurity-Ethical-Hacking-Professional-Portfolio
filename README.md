@@ -13,13 +13,13 @@ I utilize **Kali Linux** as my primary penetration testing platform to perform a
 * **Exploitation:** Leveraging the **Metasploit Framework** for payload delivery.
 * **Post-Exploitation:** Executing methodological activities after system access[cite: 64].
 
-<p align="left">
-  <img src="https://logo.clearbit.com/hp.com" width="80" height="80" alt="HP Logo" />
-  <img src="https://logo.clearbit.com/dell.com" width="80" height="80" alt="Dell Logo" />
-  <img src="https://logo.clearbit.com/comptia.org" width="80" height="80" alt="CompTIA" />
-  <img src="https://logo.clearbit.com/eccouncil.org" width="80" height="80" alt="EC-Council" />
-  <img src="https://www.kali.org/images/kali-logo.svg" width="140" alt="Kali Linux Logo" />
-</p>
+<div align="left">
+  <img src="https://logo.clearbit.com/hp.com" width="60" height="60" alt="HP" style="margin-right: 10px;" />
+  <img src="https://logo.clearbit.com/dell.com" width="60" height="60" alt="Dell" style="margin-right: 10px;" />
+  <img src="https://logo.clearbit.com/comptia.org" width="60" height="60" alt="CompTIA" style="margin-right: 10px;" />
+  <img src="https://logo.clearbit.com/eccouncil.org" width="60" height="60" alt="EC-Council" style="margin-right: 10px;" />
+  <img src="https://www.kali.org/images/kali-logo.svg" width="100" height="60" alt="Kali Linux" />
+</div>
 
 ## 📜 Verified Credential
 ### **Cisco Ethical Hacker Badge**
