@@ -13,11 +13,12 @@ I utilize **Kali Linux** as my primary penetration testing platform to perform a
 * **Exploitation:** Leveraging the **Metasploit Framework** for payload delivery.
 * **Post-Exploitation:** Executing methodological activities after system access[cite: 64].
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/HP_logo_2012.svg" width="120" height="120" alt="HP Logo" />
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/HP_logo_2012.svg" width="120" height="120" alt="HP Logo" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Dell_Logo.svg" width="120" height="120" alt="Dell Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/a/a1/20211119131652%21OWASP_logo.svg" width="120" height="120" alt="OWASP Logo" />
   <img src="https://www.kali.org/images/kali-logo.svg" width="180" alt="Kali Linux Logo" />
 </p>
----
 
 ## 📜 Verified Credential
 ### **Cisco Ethical Hacker Badge**
@@ -50,4 +51,4 @@ This certification validates my ability to explain the importance of methodologi
 <img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/ace66d18-318d-45f9-be5f-5c26bfea5a41" />
 
 ---
-[cite_start]*Last Updated: March 30, 2026* [cite: 72]
+*Last Updated: March 30, 2026*  
