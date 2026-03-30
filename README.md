@@ -1,4 +1,4 @@
-# 🛡️ Ethical Hacker Portfolio: Abderaouf Sendid (John)
+# 🛡️ Ethical Hacker Portfolio: Abderaouf Sendid
 **Certified by:** Cisco Networking Academy 🎓  
 **Credential Status:** Verified ✅  
 **Exam Performance:** 82% 🎯
@@ -8,18 +8,18 @@
 ## 🐧 The Offensive Environment: Kali Linux
 I utilize **Kali Linux** as my primary penetration testing platform to perform advanced security assessments. My expertise within this environment includes:
 
-* [cite_start]**Information Gathering:** Using `Nmap`, `dig`, and `nslookup`[cite: 59].
-* [cite_start]**Vulnerability Research:** Identifying system weaknesses through structured scanning[cite: 59].
+**Information Gathering:** Using `Nmap`, `dig`, and `nslookup`.
+* **Vulnerability Research:** Identifying system weaknesses through structured scanning.
 * **Exploitation:** Leveraging the **Metasploit Framework** for payload delivery.
-* [cite_start]**Post-Exploitation:** Executing methodological activities after system access[cite: 64].
+* **Post-Exploitation:** Executing methodological activities after system access[cite: 64].
 
-![Kali Linux Logo](https://www.kali.org/images/kali-logo.svg)
+![Kali Linux Logo](https://www.kali.org/images/kali-logo.svg) ![Dell Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Dell_Logo.svg)
 
 ---
 
 ## 📜 Verified Credential
 ### **Cisco Ethical Hacker Badge**
-[cite_start]This certification validates my ability to explain the importance of methodological ethical hacking and to create professional penetration testing reports[cite: 57, 65].
+This certification validates my ability to explain the importance of methodological ethical hacking and to create professional penetration testing reports[cite: 57, 65].
 
 ![Ethical Hacker Badge](./image_ea9338.png)
 
@@ -32,7 +32,7 @@ I utilize **Kali Linux** as my primary penetration testing platform to perform a
 | :--- | :--- | :--- |
 | **Nmap** | Network Discovery & Security Auditing | Mastered ✅ |
 | **Metasploit** | Penetration Testing & Exploitation | Mastered ✅ |
-| **Bash/Python** | Task Automation & Scripting | Proficient ✅ |
+| **Bash scripting** | Task Automation & Scripting |  Good✅ |
 
 ---
 
@@ -41,6 +41,11 @@ I utilize **Kali Linux** as my primary penetration testing platform to perform a
 * 🟢 **Cisco Intro to Cybersecurity:** [Credly Link](https://www.credly.com/badges/287b2ee6-cff8-4d87-ad7c-c494ad518ccf/public_url)
 * 🔴 **IBM Cybersecurity Fundamentals:** [Credly Link](https://www.credly.com/badges/e80a886c-352e-4c89-9374-f1c222fab989/public_url)
 * ⚪ **ISC2 Candidate Status:** [Credly Link](https://www.credly.com/badges/20f257e0-af1c-4ff4-8cb4-f2443229b77d/public_url)
+
+<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/d310debc-d4d4-444f-9fcd-8ba8137f2e82" />
+<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/12b9c767-51ee-4978-9774-26e195b497cd" />
+<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/49dc9761-cd47-4d5c-b843-008a381e282f" />
+<img width="110" height="110" alt="image" src="https://github.com/user-attachments/assets/ace66d18-318d-45f9-be5f-5c26bfea5a41" />
 
 ---
 [cite_start]*Last Updated: March 30, 2026* [cite: 72]
